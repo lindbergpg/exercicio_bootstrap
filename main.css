@@ -1,0 +1,8 @@
+.contato {
+    max-width: 400px;
+    margin: 100px auto;
+}
+
+.contato form button {
+    margin-top: 20px;
+}
